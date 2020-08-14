@@ -1,4 +1,4 @@
-![alt text][banner.jpg]
+![Banner](https://raw.githubusercontent.com/Zenoix/Zenoix/master/banner.jpg "Banner")
 
 ### Hi there 👋
 
