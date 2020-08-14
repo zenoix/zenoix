@@ -1,18 +1,18 @@
 ![Banner](https://raw.githubusercontent.com/Zenoix/Zenoix/master/github-banner.gif)
 
-### Hi there 👋
+<p align='center'>
+<a href="https://twitter.com/IAmZenoix"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/j3ff_wang"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/Zenoix/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
 
-<!--
-**Zenoix/Zenoix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hello and Welcome! My name is Jeff Wang 👋</h2>
+<p align="center">fdasgvafS</p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Where to find me
+- [Twitter](https://twitter.com/IAmZenoix) 
+- [Instagram](https://instagram.com/j3ff_wang) 
+- [LinkedIn](https://linkedin.com/in/Zenoix) 
+- Discord: wang#5464 
