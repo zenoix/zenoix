@@ -1,4 +1,4 @@
-![Banner](github-banner.gif "Banner")
+![Banner](https://raw.githubusercontent.com/Zenoix/Zenoix/master/github-banner.gif)
 
 ### Hi there 👋
 
