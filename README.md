@@ -1,3 +1,5 @@
+![alt text][banner.jpg]
+
 ### Hi there 👋
 
 <!--
