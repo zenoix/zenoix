@@ -1,3 +1,4 @@
+[comment]: <> (Gmail, Discord, and other icons by Icons8: https://icons8.com/icons)
 ![Banner](https://raw.githubusercontent.com/Zenoix/Zenoix/master/github-banner.gif)
 
 <p align='center'>
