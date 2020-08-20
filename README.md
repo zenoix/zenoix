@@ -1,6 +1,6 @@
 [comment]: <> (Gmail, Discord, and other icons by Icons8: https://icons8.com/icons)
 
-![Banner](https://raw.githubusercontent.com/Zenoix/Zenoix/master/github-banner.gif)
+<img id="banner" src="https://raw.githubusercontent.com/Zenoix/Zenoix/master/github-banner.gif" draggable="false">
 <br>
 
 <h2 align="center">Hello and Welcome! My name is Jeff Wang 👋</h2>
