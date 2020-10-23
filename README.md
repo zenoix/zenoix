@@ -14,8 +14,7 @@
 
 ### Where to find me
 - [Twitter](https://twitter.com/IAmZenoix) 
-- [Instagram](https://instagram.com/j3ff_wang) 
-- [LinkedIn](https://linkedin.com/in/Zenoix)
+- [Instagram](https://instagram.com/j3ff_wang)
 - Email: jeff.wang0296@gmail.com
 - Discord: wang#5464 
 - Reddit: IAmZenoix
