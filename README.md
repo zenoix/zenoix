@@ -4,7 +4,6 @@
 <br>
 
 <h2 align="center">Hello and Welcome! My name is Jeff Wang 👋</h2>
-<h4 align="center">This section is still a WIP</h4>
 
 <p>I'm currently a high school student with an interest in data science, programming, and most importantly, learning new things. I am finishing my last year of high school while completing data science and programming projects. Right now, I am focusing on learning how to perform data science tasks using Python as that is what I am experienced in, however, I will eventually be learning other skills such as R, SQL, and statistics to help me become a data scientist.</p>
 
