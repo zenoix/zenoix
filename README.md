@@ -2,7 +2,7 @@
 
 <img id="banner" src="https://raw.githubusercontent.com/Zenoix/Zenoix/master/github-banner.gif" draggable="false">
 
-<h2 align="center">Hello and Welcome! My name is Jeff Wang 👋</h2>
+<h2 align="center">Hello and Welcome! I'm Jeff 👋</h2>
 
 <p>I'm currently a high school student with an interest in data science, programming, and learning new skills and information. Currently, I am finishing my last year of high school while completing data science and programming projects. The skills I am focusing on right now is how to perform data science tasks using Python as that is the language I am most experienced in, however, I will eventually be learning other skills such as R, SQL, and statistics to help me become a data scientist.</p>
 
