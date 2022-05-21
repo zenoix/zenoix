@@ -1,5 +1,3 @@
-[comment]: <> (Gmail, Discord, and other icons by Icons8: https://icons8.com/icons)
-
 <img id="banner" src="https://raw.githubusercontent.com/Zenoix/Zenoix/master/github-banner.gif" draggable="false">
 
 <h2 align="center">Hello and Welcome! I'm Jeff 👋</h2>
