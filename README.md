@@ -1,5 +1,3 @@
 <img id="banner" src="https://raw.githubusercontent.com/Zenoix/Zenoix/master/github-banner.gif" draggable="false">
 
 <h2 align="center">Hello and Welcome! I'm Jeff 👋</h2>
-
-<p>I'm currently a second year uni student with an interest in data science, artificial intelligence, and programming in general. The skills I am focusing on right now is how to perform data science tasks using Python as that is the language I am most experienced in, however, I will eventually be learning other skills such as R, SQL, machine learning, and statistics to help me become a data scientist.</p>
