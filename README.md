@@ -9,3 +9,12 @@ I'm Jeff — a data scientist and a self-proclaimed "knowledge fiend" from Auckl
     <img src="https://skillicons.dev/icons?i=ansible,arch,azure,docker,fastapi,git,githubactions,go,neovim,py,r,sklearn,tensorflow,ubuntu" />
   </a>
 </p>
+
+<h2></h2>
+<div align="center">
+
+```scala
+"If you feel like the dumbest person in the room, then you are in the right room."
+- u/Last_Jesus, Reddit
+```
+</div>
