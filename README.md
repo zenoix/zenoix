@@ -22,6 +22,7 @@ I'm Jeff — a data scientist and a self-proclaimed "knowledge fiend" from Auckl
 <div align="center">
 
 ```scala
+
 "If you feel like the dumbest person in the room, then you are in the right room."
 - u/Last_Jesus, Reddit
 ```
