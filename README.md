@@ -7,7 +7,7 @@ I'm Jeff — a data scientist and a self-proclaimed "knowledge fiend" from Auckl
 <h3 align="center">Tools</h3>
 <p align="center">
   <a href="https://github.com/zenoix/walnut-environment" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=anaconda,ansible,arch,azure,docker,git,github,githubactions,neovim,ubuntu&perline=5" />
+    <img src="https://skillicons.dev/icons?i=azure,docker,git,github,githubactions,neovim,nix,ubuntu&perline=5" />
   </a>
 </p>
 
