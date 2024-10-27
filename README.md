@@ -1,7 +1,10 @@
 <img id="banner" src="https://raw.githubusercontent.com/Zenoix/Zenoix/master/github-banner.gif" draggable="false">
 
 <h2>Hello and Welcome! 👋</h2>
-I'm Jeff — a data scientist and a self-proclaimed "knowledge fiend" from Auckland, New Zealand. I have a strong interest in the fields of machine learning and devops. Don't be surprised if you catch me tinkering with my <a href="https://github.com/zenoix/walnut-environment" target="_blank" rel="noopener noreferrer">NixOS configuration, dotfiles, and neovim configuration</a> :smile:. 
+
+I'm Jeff — a data scientist and a self-proclaimed "knowledge fiend" from Auckland, New Zealand. I have a strong interest in the fields of machine learning and devops. Don't be surprised if you catch me tinkering with my <a href="https://github.com/zenoix/walnut-environment" target="_blank" rel="noopener noreferrer">NixOS configuration, dotfiles, and neovim configuration</a> :smile:.
+
+Check out my new blog if you're interested [here](zenoix.com).
 
 <h2>Things I Use or Enjoy:</h2>
 <h3 align="center">Tools</h3>
@@ -14,7 +17,7 @@ I'm Jeff — a data scientist and a self-proclaimed "knowledge fiend" from Auckl
 <h3 align="center">Languages and Libraries</h3>
 <p align="center">
   <a href="https://github.com/zenoix/walnut-environment" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=fastapi,go,opencv,py,r,sklearn,tensorflow&perline=4" />
+    <img src="https://skillicons.dev/icons?i=astro,fastapi,go,opencv,py,r,sklearn,tensorflow&perline=4" />
   </a>
 </p>
 
