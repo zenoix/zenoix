@@ -4,7 +4,7 @@
 
 I'm Jeff — a data scientist and a self-proclaimed "knowledge fiend" from Auckland, New Zealand. I have a strong interest in the fields of machine learning and devops. Don't be surprised if you catch me tinkering with my <a href="https://github.com/zenoix/walnut-environment" target="_blank" rel="noopener noreferrer">NixOS configuration, dotfiles, and neovim configuration</a> :smile:.
 
-Check out my new blog if you're interested [here](https://www.zenoix.com).
+Check out my blog if you're interested [here](https://www.zenoix.com).
 
 <h2>Things I Use or Enjoy:</h2>
 <h3 align="center">Tools</h3>
